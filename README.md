@@ -8,7 +8,6 @@ This repository is a beginner-friendly guide to learning programmable logic cont
 
 - `siemens/` - Tutorials and examples using Siemens PLCs (e.g., TIA Portal)
 - `allen-bradley/` - Tutorials and examples using Allen-Bradley PLCs (e.g., RSLogix, Studio 5000)
-- `common-concepts/` - General PLC concepts like scan cycles, timers, and ladder logic symbols
 
 ## What You'll Learn
 
